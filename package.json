@@ -1,5 +1,5 @@
 {
-  "name": "Xeon-Bug-API",
+  "name": "kashmiri",
   "version": "1.0.0",
   "description": "WhatsApp Bot Endpoint",
   "main": "start.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node start.js"
   },
-  "author": "DGXeon",
+  "author": "kashmiri",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
